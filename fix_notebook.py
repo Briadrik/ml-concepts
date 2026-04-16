@@ -1,7 +1,7 @@
 import json
 
 # Load the notebook
-with open(r'c:\Users\briad\OneDrive - Momentum Credit\Documents\GitHub\ml-concepts\bert-sentence-similarity\bert_sentence_similarity.ipynb', 'r', encoding='utf-8') as f:
+with open(r'c:\Documents\GitHub\ml-concepts\bert-sentence-similarity\bert_sentence_similarity.ipynb', 'r', encoding='utf-8') as f:
     notebook = json.load(f)
 
 # Remove metadata.widgets if it exists
